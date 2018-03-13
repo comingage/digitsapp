@@ -1,0 +1,8 @@
+==========================Scores========================================
+ # of classes:    10
+ Accuracy:        0.9896
+ Precision:       0.9897
+ Recall:          0.9894
+ F1 Score:        0.9895
+Precision, recall & F1: macro-averaged (equally weighted avg. of 10 classes)
+========================================================================
